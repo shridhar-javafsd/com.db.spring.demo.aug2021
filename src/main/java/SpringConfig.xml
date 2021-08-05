@@ -6,5 +6,8 @@
 <bean id="employee" class="com.db.spring.demo.aug2021.Employee">
 </bean>
 
+<bean id="employee2" class="com.db.spring.demo.aug2021.Employee">
+</bean>
+
 </beans>
 
